@@ -394,27 +394,27 @@ O LED no Wokwi deve responder imediatamente! 💡
 
 **Otávio Inaba - 565003**
 GitHub: [Otaaviio](https://github.com/Otaaviio)
-inkedIn: [Otávio Inaba](www.linkedin.com/in/otávio-inaba)
+LinkedIn: [Otávio Inaba](www.linkedin.com/in/otávio-inaba)
 
 **Eduardo Ulisses - 566339**
 GitHub: [UlissesE](https://github.com/UlissesE)
-inkedIn: [Eduardo Ulisses](https://www.linkedin.com/in/eduardo-ulisses/)
+LinkedIn: [Eduardo Ulisses](https://www.linkedin.com/in/eduardo-ulisses/)
 
 **Eduardo Duran - 562017**
 GitHub: [dudus70](https://github.com/dudus70)
-inkedIn: [Eduardo Duran Del Ciel](https://www.linkedin.com/in/eduardo-duran-del-ciel-762862359/)
+LinkedIn: [Eduardo Duran Del Ciel](https://www.linkedin.com/in/eduardo-duran-del-ciel-762862359/)
 
 **Fernando Bellegarde - 564169**
 GitHub: [fernandoBellegarde](https://github.com/fernandoBellegarde)
-inkedIn: [Fernando Bellegarde](https://www.linkedin.com/in/fernandobellegarde/)
+LinkedIn: [Fernando Bellegarde](https://www.linkedin.com/in/fernandobellegarde/)
 
 **Henrique Castro - 564560**
 GitHub: [RickkCastro](https://github.com/RickkCastro)
-inkedIn: [RickkCastro](https://www.linkedin.com/in/rickkcastro/)
+LinkedIn: [RickkCastro](https://www.linkedin.com/in/rickkcastro/)
 
 **Henrique Guedes - 562474**
 GitHub: [HenriGuedes](https://github.com/HenriGuedes)
-inkedIn: [Henrique Guedes](https://www.linkedin.com/in/henrique-guedes-silv/)
+LinkedIn: [Henrique Guedes](https://www.linkedin.com/in/henrique-guedes-silv/)
 
 ---
 
