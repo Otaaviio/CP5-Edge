@@ -57,8 +57,8 @@ Este projeto implementa um **sistema completo de monitoramento IoT** para adegas
 
 ### 🔄 Fluxo de Dados
 
-<p align="center">
-  <img src="./arquitetura.png" alt="Arquitetura do Projeto" style="width:400px;"/>
+<p align="center"> 
+  <img src="httpsaqui./arquitetura.png" alt="drawing" style="width:400px;"/> 
 </p>
 
 ---
